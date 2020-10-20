@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -17,11 +17,10 @@
     "url": "https://github.com/ikrystian/buddy-test/issues"
   },
   "homepage": "https://github.com/ikrystian/buddy-test#readme",
-  "dependencies": {
-    "parcel-bundler": "^1.12.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^10.0.1",
+    "parcel-bundler": "^1.12.4",
     "postcss": "^8.1.2",
     "sass": "^1.27.0"
   }

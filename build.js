@@ -1,1 +1,1 @@
-build
+console.log('bu ild');

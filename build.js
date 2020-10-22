@@ -1,1 +1,1 @@
-console.log('bu ild 12');
+console.log('bu ild 12 dd');
